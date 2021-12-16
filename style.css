@@ -200,3 +200,20 @@ body{
     padding: 12px 90px;
     text-decoration: none;    
 }
+.site-footer-content{    
+    height: 832px;
+    background-image: url(img/runners\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+    color: #FFFFFF;
+}
+.site-footer-text{
+    width: 500px;
+    height:832px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    left: 650px;
+}
